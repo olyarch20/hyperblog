@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="747369ae-6d31-4569-b5ad-26b27c1628a9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/blogpost.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogpost.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/estilos.css" afterDir="false" />
-    </list>
+    <list default="true" id="747369ae-6d31-4569-b5ad-26b27c1628a9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -97,8 +94,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="280" />
+    <option name="y" value="340" />
     <option name="width" value="1346" />
     <option name="height" value="602" />
   </component>
