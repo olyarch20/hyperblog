@@ -11,3 +11,4 @@ En este curso vemos:
 - Buenas prácticas
 - Trucos muy locos del profesor
 - Creado por el Platzi Team
+- Incluye ejemplos en Windows, Linux y Mac
