@@ -10,3 +10,4 @@ En este curso vemos:
 - El flujo de trabajo de Github
 - Buenas prácticas
 - Trucos muy locos del profesor
+- Creado por el Platzi Team
